@@ -1,6 +1,6 @@
 -r requirements.txt
 
-imageio[ffmpeg]==2.37.4
+imageio[ffmpeg]==2.38.0
 pytest==9.1.1
-remotezip==0.12.3
+remotezip==0.12.6
 requests==2.34.2
